@@ -9,7 +9,7 @@ First here's all the hardware I have in use for the homelab.
 - Toshiba satelite AMD E200 / 16gb ram / 250 ssd
 - TP-Link Gigabit 5 port POE switch
 
-To rack everitying I use an IKEA BRÄNNBOLL SHELF.
+To rack everything I use an IKEA BRÄNNBOLL SHELF.
 https://www.ikea.com/us/en/p/braennboll-open-storage-unit-on-casters-white-60586258/
 
 Now services Im running are quite some:
