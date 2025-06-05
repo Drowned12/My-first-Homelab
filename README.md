@@ -30,3 +30,5 @@ Rasppery Pi 5 //
 
 Lenovo T480 //
 - Batocera system
+
+![IMG_7884](https://github.com/user-attachments/assets/9fb459bd-44cb-478c-adab-9440e21433f7)
